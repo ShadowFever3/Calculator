@@ -47,7 +47,7 @@
         <Button Content="8" Grid.Column="1" Grid.Row="2" Click="Button_Number"/>
         <Button Content="9" Grid.Column="2" Grid.Row="2" Click="Button_Number"/>
         <Button Content="±" Grid.Column="0" Grid.Row="5" Click="PlusMinus"/>
-        <Button Content="." Grid.Column="2" Grid.Row="5" Click="Point" />
+        <Button Content="." Grid.Column="2" Grid.Row="5" Click="Point"/>
         <Button Content="=" Grid.Column="3" Grid.Row="5" Click="Operator" Background="Green"/>
         <Button Content="+" Grid.Column="3" Grid.Row="4" Click="Operator" Foreground="LightGreen"/>
         <Button Content="-" Grid.Column="3" Grid.Row="3" Click="Operator" Foreground="LightGreen"/>
